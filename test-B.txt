@@ -1,4 +1,6 @@
 S->aS
 S->bS
 S->cS
-S->{e}
+S->a
+S->b
+S->c
