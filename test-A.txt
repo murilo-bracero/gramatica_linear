@@ -1,0 +1,6 @@
+S->XXXY
+X->a
+X->b
+X->c
+Y->XY
+Y->{e}
